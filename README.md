@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <span style="color: rgb(255, 255, 255);">LARP</span><span style="color: rgb(0, 107, 253);">SENSE</span>
+  <b>hi</b>
 </p>
