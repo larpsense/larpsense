@@ -2,5 +2,5 @@
   <img src="./larpsense.png" width="100%">
 </p>
 <p align="center">
-  <font color="#ff5555">text</font>
+  <font color="#666666">text</font>
 </p>
