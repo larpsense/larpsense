@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <b>hi</b>
+  <b>larpsense</b> is a private Roblox script developed by <b>usphind</b> designed to be as good and as deadly as possible.
 </p>
