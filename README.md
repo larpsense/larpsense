@@ -1,4 +1,4 @@
 <p align="center">
   <img src="./larpsense.png" width="100%">
 </p>
-<bold>hi</bold>
+<b>hi</b>
